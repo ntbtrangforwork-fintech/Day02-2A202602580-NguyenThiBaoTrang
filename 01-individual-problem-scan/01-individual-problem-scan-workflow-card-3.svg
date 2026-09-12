@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#f7f8fc"/>
+  <text x="60" y="62" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#172033">Workflow Card 3: Xu ly loi Python/SQL</text>
+  <text x="60" y="105" font-family="Arial, sans-serif" font-size="18" fill="#5b6578">Problem: kho xac dinh nguyen nhan loi va kiem tra ket qua tai chinh</text>
+  <rect x="60" y="140" width="1080" height="230" rx="12" fill="#f1edff" stroke="#7557b5" stroke-width="3"/>
+  <text x="90" y="180" font-family="Arial" font-size="24" font-weight="700" fill="#55368f">CURRENT STATE - 40 phut</text>
+  <rect x="90" y="220" width="230" height="90" rx="8" fill="#fff" stroke="#c8cedb" stroke-width="2"/><text x="205" y="255" text-anchor="middle" font-family="Arial" font-size="18" fill="#172033">1. Chay code/query</text><text x="205" y="283" text-anchor="middle" font-family="Arial" font-size="16" fill="#5b6578">5 phut</text>
+  <path d="M330 265 H390" stroke="#55368f" stroke-width="3" marker-end="url(#a)"/>
+  <rect x="400" y="210" width="330" height="110" rx="8" fill="#e4dcff" stroke="#7557b5" stroke-width="3"/><text x="565" y="250" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#55368f">2. Tim nguyen nhan</text><text x="565" y="280" text-anchor="middle" font-family="Arial" font-size="16" fill="#55368f">20 phut - BOTTLENECK</text>
+  <path d="M740 265 H800" stroke="#55368f" stroke-width="3" marker-end="url(#a)"/>
+  <rect x="810" y="220" width="290" height="90" rx="8" fill="#fff" stroke="#c8cedb" stroke-width="2"/><text x="955" y="255" text-anchor="middle" font-family="Arial" font-size="18" fill="#172033">3. Thu sua va test</text><text x="955" y="283" text-anchor="middle" font-family="Arial" font-size="16" fill="#5b6578">15 phut</text>
+  <rect x="60" y="410" width="1080" height="230" rx="12" fill="#edf8f2" stroke="#2b9b68" stroke-width="3"/>
+  <text x="90" y="450" font-family="Arial" font-size="24" font-weight="700" fill="#187247">FUTURE STATE - 25 phut</text>
+  <rect x="90" y="490" width="280" height="90" rx="8" fill="#fff" stroke="#c8cedb" stroke-width="2"/><text x="230" y="525" text-anchor="middle" font-family="Arial" font-size="18" fill="#172033">1. Gui loi + context</text><text x="230" y="553" text-anchor="middle" font-family="Arial" font-size="16" fill="#5b6578">5 phut</text>
+  <path d="M380 535 H430" stroke="#187247" stroke-width="3" marker-end="url(#b)"/>
+  <rect x="440" y="490" width="290" height="90" rx="8" fill="#fff" stroke="#c8cedb" stroke-width="2"/><text x="585" y="525" text-anchor="middle" font-family="Arial" font-size="18" fill="#172033">2. AI goi y kiem tra</text><text x="585" y="553" text-anchor="middle" font-family="Arial" font-size="16" fill="#5b6578">5 phut</text>
+  <path d="M740 535 H790" stroke="#187247" stroke-width="3" marker-end="url(#b)"/>
+  <rect x="800" y="480" width="300" height="110" rx="8" fill="#d8f1e3" stroke="#2b9b68" stroke-width="3"/><text x="950" y="520" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#187247">3. Tu sua + chay test</text><text x="950" y="550" text-anchor="middle" font-family="Arial" font-size="16" fill="#187247">15 phut - human check</text>
+  <text x="90" y="690" font-family="Arial" font-size="18" fill="#5b6578">Fallback: neu ket qua sai, quay lai checklist debug va tai lieu chinh thuc.</text>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#55368f"/></marker><marker id="b" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#187247"/></marker></defs>
+</svg>
